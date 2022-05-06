@@ -1,0 +1,476 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:04:16 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 1956@B01-PC13
+
+[2022-04-29 09:04:16 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:04:26 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' has been recovered (tr. 1-2)
+
+[2022-04-29 09:04:26 #2 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 8768@B01-PC13
+
+[2022-04-29 09:04:26 #3 store] 
+Configuration path: ?
+
+[2022-04-29 09:04:26 #4 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:04:26 #5 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:04:26 #6 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 8768@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:04:32 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 10728@B01-PC13
+
+[2022-04-29 09:04:32 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:04:32 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:04:32 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:04:34 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 916@B01-PC13
+
+[2022-04-29 09:04:34 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:04:34 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:04:34 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:05:19 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 10840@B01-PC13
+
+[2022-04-29 09:05:19 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:05:19 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:05:19 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:05:19 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 10840@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:05:35 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 8704@B01-PC13
+
+[2022-04-29 09:05:35 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:05:35 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:05:35 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:05:36 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 8704@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:07:16 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 1000@B01-PC13
+
+[2022-04-29 09:07:16 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:07:16 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:07:16 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:07:16 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 1000@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:07:41 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 6128@B01-PC13
+
+[2022-04-29 09:07:41 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:07:41 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:07:41 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:07:41 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 6128@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:16:52 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 6740@B01-PC13
+
+[2022-04-29 09:16:52 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:16:52 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:16:52 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:17:09 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 7544@B01-PC13
+
+[2022-04-29 09:17:09 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:17:09 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:17:09 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:17:21 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 5740@B01-PC13
+
+[2022-04-29 09:17:21 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:17:21 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:17:21 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:18:22 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 1440@B01-PC13
+
+[2022-04-29 09:18:22 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:18:22 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:18:22 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:18:22 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 1440@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:20:25 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 6120@B01-PC13
+
+[2022-04-29 09:20:25 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:20:25 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:20:25 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:20:34 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 9944@B01-PC13
+
+[2022-04-29 09:20:34 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:20:34 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:20:34 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:21:14 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 10724@B01-PC13
+
+[2022-04-29 09:21:14 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:21:14 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:21:14 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:21:47 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 10372@B01-PC13
+
+[2022-04-29 09:21:47 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:21:47 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:21:47 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:21:47 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 10372@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:28:57 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 5892@B01-PC13
+
+[2022-04-29 09:28:57 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:28:57 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:28:57 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:29:22 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 7464@B01-PC13
+
+[2022-04-29 09:29:22 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:29:22 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:29:22 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:29:22 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 7464@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:29:34 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 2348@B01-PC13
+
+[2022-04-29 09:29:34 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:29:34 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:29:34 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:29:34 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 2348@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:29:43 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 5612@B01-PC13
+
+[2022-04-29 09:29:43 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:29:43 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:29:43 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:30:21 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 4228@B01-PC13
+
+[2022-04-29 09:30:21 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:30:21 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:30:21 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:30:21 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 4228@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:31:01 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 2824@B01-PC13
+
+[2022-04-29 09:31:01 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:31:01 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:31:01 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:31:13 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 3168@B01-PC13
+
+[2022-04-29 09:31:13 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:31:13 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:31:13 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:31:13 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 3168@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:38:48 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 5152@B01-PC13
+
+[2022-04-29 09:38:48 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:38:48 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:38:48 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:39:07 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 10400@B01-PC13
+
+[2022-04-29 09:39:07 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:39:07 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:39:07 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:39:41 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 3340@B01-PC13
+
+[2022-04-29 09:39:41 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:39:41 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:39:41 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:39:42 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 3340@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:39:58 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 7656@B01-PC13
+
+[2022-04-29 09:39:58 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:39:59 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:39:59 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:39:59 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 7656@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:42:45 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 11108@B01-PC13
+
+[2022-04-29 09:42:45 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:42:45 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:42:45 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:42:55 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 1912@B01-PC13
+
+[2022-04-29 09:42:55 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:42:56 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:42:56 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:43:34 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 7236@B01-PC13
+
+[2022-04-29 09:43:34 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:43:34 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:43:34 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:43:34 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 7236@B01-PC13
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-04-29 09:45:30 #1 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is opened by 6080@B01-PC13
+
+[2022-04-29 09:45:30 #2 store] 
+Configuration path: ?
+
+[2022-04-29 09:45:30 #3 type] 
+Type Empleados.DepartamentoEntity is not enhanced.
+
+[2022-04-29 09:45:30 #4 type] 
+Type Empleados.EmpleadoEntity is not enhanced.
+
+[2022-04-29 09:45:30 #5 store] 
+Database 'C:\Users\DAM1Alu13\eclipse-workspace\ObjectDB1\db\empleados.odb' is closed by 6080@B01-PC13
+
